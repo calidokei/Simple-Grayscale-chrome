@@ -1,0 +1,33 @@
+Simple Grayscale
+
+Version:.1.0
+
+
+=======================================================
+Overall
+=======================================================
+This is a extension to run on Chromium.
+
+If  you click "ON/OFF" button, opening webpage will change grayscale. Of course, you can replace colour display.
+
+
+=======================================================
+FAQ
+=======================================================
+Q. Are this codes open source?
+A. Yes, you can download, remake and redistribute this. Contact is not required but if you contact me when you redistribute, I will be happy!
+
+
+=======================================================
+Updates
+=======================================================
+ver.1.0
+The first developing
+
+
+=======================================================
+Contact
+=======================================================
+Developer: Calido Kei
+Mail: tommykprotoia@gmail.com
+OK: 日本語 English
